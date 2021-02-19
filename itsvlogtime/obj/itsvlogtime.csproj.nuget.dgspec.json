@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Peter\\source\\repos\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj": {}
+    "C:\\Users\\Peter\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Peter\\source\\repos\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj": {
+    "C:\\Users\\Peter\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Peter\\source\\repos\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj",
+        "projectUniqueName": "C:\\Users\\Peter\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj",
         "projectName": "itsvlogtime",
-        "projectPath": "C:\\Users\\Peter\\source\\repos\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj",
+        "projectPath": "C:\\Users\\Peter\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj",
         "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Peter\\source\\repos\\itsvlogtime\\itsvlogtime\\obj\\",
+        "outputPath": "C:\\Users\\Peter\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
