@@ -8,7 +8,6 @@ C:\Users\Peter\Documents\GitHub\itsvlogtime\itsvlogtime\bin\Debug\netcoreapp3.1\
 C:\Users\Peter\Documents\GitHub\itsvlogtime\itsvlogtime\bin\Debug\netcoreapp3.1\itsvlogtime.pdb
 C:\Users\Peter\Documents\GitHub\itsvlogtime\itsvlogtime\bin\Debug\netcoreapp3.1\itsvlogtime.Views.dll
 C:\Users\Peter\Documents\GitHub\itsvlogtime\itsvlogtime\bin\Debug\netcoreapp3.1\itsvlogtime.Views.pdb
-C:\Users\Peter\Documents\GitHub\itsvlogtime\itsvlogtime\obj\Debug\netcoreapp3.1\itsvlogtime.csprojAssemblyReference.cache
 C:\Users\Peter\Documents\GitHub\itsvlogtime\itsvlogtime\obj\Debug\netcoreapp3.1\itsvlogtime.AssemblyInfoInputs.cache
 C:\Users\Peter\Documents\GitHub\itsvlogtime\itsvlogtime\obj\Debug\netcoreapp3.1\itsvlogtime.AssemblyInfo.cs
 C:\Users\Peter\Documents\GitHub\itsvlogtime\itsvlogtime\obj\Debug\netcoreapp3.1\itsvlogtime.csproj.CoreCompileInputs.cache
@@ -35,3 +34,4 @@ C:\Users\Peter\Documents\GitHub\itsvlogtime\itsvlogtime\obj\Debug\netcoreapp3.1\
 C:\Users\Peter\Documents\GitHub\itsvlogtime\itsvlogtime\obj\Debug\netcoreapp3.1\itsvlogtime.pdb
 C:\Users\Peter\Documents\GitHub\itsvlogtime\itsvlogtime\obj\Debug\netcoreapp3.1\itsvlogtime.genruntimeconfig.cache
 C:\Users\Peter\Documents\GitHub\itsvlogtime\itsvlogtime\obj\Debug\netcoreapp3.1\itsvlogtime.csproj.CopyComplete
+C:\Users\Peter\Documents\GitHub\itsvlogtime\itsvlogtime\obj\Debug\netcoreapp3.1\itsvlogtime.csprojAssemblyReference.cache
