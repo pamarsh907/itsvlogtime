@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - itsvlogtime</title>
+    <title>@ViewData["Title"]</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
 </head>
@@ -13,7 +13,7 @@
     <header>
         <div class="container">
             <div class="text-center mb-3 mt-3" style="padding-bottom: 18px">
-                <div style="font-style: oblique; font-size: 400%">IT'S VLOG TIME</div>
+                <div style="font-style: oblique; font-size: 400%"><a style="color: black" href="@Url.Action("Index","Home")">IT'S VLOG TIME</a></div>
                 <div>(with Pete)</div>
             </div>
         </div>
@@ -21,16 +21,16 @@
             <div style="background:white">
                 <ul style="list-style-type: none; margin: 0; padding: 0; display: flex; justify-content:space-between; width:100%">
                     <li style="display:block; margin:auto; ">
-                        <a class="nav-link" href="#"><strong>Blog</strong></a>
+                        <a class="nav-link" href="@Url.Action("Blog","Home")"><strong>Blog</strong></a>
                     </li>
                     <li style="display:block; margin:auto; flex:0 1 auto">
-                        <a class="nav-link" href="#"><strong>Map</strong></a>
+                        <a class="nav-link" href="@Url.Action("Map","Home")"><strong>Map</strong></a>
                     </li>
                     <li style="display:block; margin:auto; flex:0 1 auto">
-                        <a class="nav-link" href="#"><strong>Extras</strong></a>
+                        <a class="nav-link" href="@Url.Action("Extras","Home")"><strong>Extras</strong></a>
                     </li>
                     <li style="display:block; margin:auto; flex:0 1 auto">
-                        <a class="nav-link" href="#"><strong>Youtube</strong></a>
+                        <a class="nav-link" href="@Url.Action("Youtube","Home")"><strong>Youtube</strong></a>
                     </li>
                 </ul>
             </div>

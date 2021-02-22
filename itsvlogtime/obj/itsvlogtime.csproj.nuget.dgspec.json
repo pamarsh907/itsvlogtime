@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Peter\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj": {}
+    "C:\\Users\\pamarsh\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Peter\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj": {
+    "C:\\Users\\pamarsh\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Peter\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj",
+        "projectUniqueName": "C:\\Users\\pamarsh\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj",
         "projectName": "itsvlogtime",
-        "projectPath": "C:\\Users\\Peter\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj",
-        "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Peter\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\obj\\",
+        "projectPath": "C:\\Users\\pamarsh\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj",
+        "packagesPath": "C:\\Users\\pamarsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pamarsh\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pamarsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,7 +26,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {},
+          "https://winfonet-dev.dwc.dfg.alaska.local/DWCNuget/NuGet": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
