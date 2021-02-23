@@ -8,23 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\pamarsh\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Peter\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pamarsh\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj",
+      "projectUniqueName": "C:\\Users\\Peter\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj",
       "projectName": "itsvlogtime",
-      "projectPath": "C:\\Users\\pamarsh\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj",
-      "packagesPath": "C:\\Users\\pamarsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pamarsh\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\obj\\",
+      "projectPath": "C:\\Users\\Peter\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\itsvlogtime.csproj",
+      "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Peter\\Documents\\GitHub\\itsvlogtime\\itsvlogtime\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\pamarsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -33,9 +35,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.telerik.com/nuget": {},
-        "https://winfonet-dev.dwc.dfg.alaska.local/DWCNuget/NuGet": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {

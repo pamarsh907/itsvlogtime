@@ -76,3 +76,7 @@ C:\Users\pamarsh\Documents\GitHub\itsvlogtime\itsvlogtime\obj\Debug\netcoreapp3.
 C:\Users\pamarsh\Documents\GitHub\itsvlogtime\itsvlogtime\obj\Debug\netcoreapp3.1\Razor\Views\Home\Extras.cshtml.g.cs
 C:\Users\pamarsh\Documents\GitHub\itsvlogtime\itsvlogtime\obj\Debug\netcoreapp3.1\Razor\Views\Home\Map.cshtml.g.cs
 C:\Users\pamarsh\Documents\GitHub\itsvlogtime\itsvlogtime\obj\Debug\netcoreapp3.1\Razor\Views\Home\Youtube.cshtml.g.cs
+C:\Users\Peter\Documents\GitHub\itsvlogtime\itsvlogtime\obj\Debug\netcoreapp3.1\Razor\Views\Home\Blog.cshtml.g.cs
+C:\Users\Peter\Documents\GitHub\itsvlogtime\itsvlogtime\obj\Debug\netcoreapp3.1\Razor\Views\Home\Extras.cshtml.g.cs
+C:\Users\Peter\Documents\GitHub\itsvlogtime\itsvlogtime\obj\Debug\netcoreapp3.1\Razor\Views\Home\Map.cshtml.g.cs
+C:\Users\Peter\Documents\GitHub\itsvlogtime\itsvlogtime\obj\Debug\netcoreapp3.1\Razor\Views\Home\Youtube.cshtml.g.cs
